@@ -1,6 +1,6 @@
 ## Hello there, I'm Vittorio 🦎
-Freetime developer, graduated in Computer Science at University of Ferrara, currently pursuing a master's degree in Computer science at the University of Bologna.
-Mostly passionate about Web developing.
+Freetime developer,  MsC in Computer science at the University of Bologna.
+Research fellow at the University of Bologna
 ## Top Skills 💻
 * Python 🐍
 * ReactJs ⚛️
